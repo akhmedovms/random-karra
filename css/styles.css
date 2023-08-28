@@ -44,7 +44,6 @@
   }
 }
 
-
 /* GLOBAL-STYLES  */
 html {
   font-size: 62.5%;
@@ -77,7 +76,6 @@ img {
   height: auto;
 }
 
-
 /* FOCUS-STYLES  */
 *:focus {
   outline: 0.3rem dashed var(--black);
@@ -94,7 +92,6 @@ img {
   margin-right: auto;
 }
 
-
 /* VISUALLY-HIDDEN  */
 .visually-hidden {
   position: absolute;
@@ -106,7 +103,6 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
 
 /* MAIN-CONTENT  */
 .main-content {
